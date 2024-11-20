@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="[https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg](https://cdn-icons-png.flaticon.com/512/3537/3537800.png)" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
     <h2 align="center">[Calculator_Main] 기능성 계산기</h2>
  <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
 </p>
