@@ -2,7 +2,7 @@
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
     <h2 align="center">[Calculator_Main] 기능성 계산기</h2>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyung412820)](https://github.com/kyung412820/github-readme-stats)
+[![Kyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyung412820)](https://github.com/kyung412820/github-readme-stats)
 <br/>
 
 <h2>목차</h2>
